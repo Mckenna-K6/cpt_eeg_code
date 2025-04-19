@@ -5,8 +5,8 @@ import time
 
 app = Flask(__name__)
 
-EMOTIV_CLIENT_ID = '3PrpBJtscTXH3ZbNoXlxqIqip8A1JRWoS7DqvFIV'
-EMOTIV_CLIENT_SECRET = 'XJGGSgBko8hT7HKdX9wevFQkONCMutH49nrk2SSMoEwEeIjX0uhkKGmdKuhaqy47FDkqpTOFnp3mN0KvqIJUGUJLKgdiBqLLzawywGUKqjHvErPux0dzle3Hgqmv2tf5'
+EMOTIV_CLIENT_ID = ''
+EMOTIV_CLIENT_SECRET = ''
 
 attention_data = []  # List of (timestamp, attention_value)
 
